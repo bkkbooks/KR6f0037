@@ -1,0 +1,50 @@
+canonical_identifier: bkk:krp/KR6f0037/T/v1
+canonical_location: https://kanripo.org/bkk/KR6f0037/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 慧上菩薩問大善權經
+  identifiers:
+    krp: KR6f0037
+    cbeta: T12n0345
+    cbeta_old_id: T12n0345
+    authorityid: CA0001490
+    json_key: T0345
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T12/T12n0345.xml
+    old_id: T12n0345
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6f0037_000-T.yaml, hash: 'sha256:9fc111c070ca82a09236bbaab8894c4548f5a5ad5e8bc8e19847dc5bf624ad35'}
+  - {seq: 1, filename: KR6f0037_001-T.yaml, hash: 'sha256:8475846a4181efac83949d2b26a4cfafa6c601008dc0b529b8a56c8b28319035'}
+  - {seq: 2, filename: KR6f0037_002-T.yaml, hash: 'sha256:cb6baa2f47b8411215e28cf6af033e6518d206952376124ff4f7f48eff22b7a4'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6f0037_000-T.markers.yaml, hash: 'sha256:2749a39e47a1e8cad64bac720271f87db3c46a1fe2ee9e094a99823056067ef9'}
+  - {seq: 1, role: markers, filename: assets/KR6f0037_001-T.markers.yaml, hash: 'sha256:f4b356e692cba4fc5754c4bd78fae8a0d40ad2fa9a19ceedf0e6001b9386ff78'}
+  - {seq: 2, role: markers, filename: assets/KR6f0037_002-T.markers.yaml, hash: 'sha256:7f40c0ed106b10081649fee877c13575b37f899707c68ad4817b787fd3b7f4d0'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6f0037_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 7175
+  label: 慧上菩薩問大善權經卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6f0037_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 6398
+  label: 慧上菩薩問大善權經卷下
+  type: juan
+  level: 1
+hash: sha256:44e249837f2c8aa706aaedceb968b92aa050022f9a2e5ec97fe7bae3d8f81e68

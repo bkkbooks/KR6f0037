@@ -40,7 +40,7 @@ assets:
   - {seq: 1, filename: KR6f0037_001.yaml, hash: 'sha256:f1695d10331714073e6430874c8e9793ed08aca7d360f099d5d8662e61d265ac'}
   - {seq: 2, filename: KR6f0037_002.yaml, hash: 'sha256:7b8ca2d78c409398571424be538db74a44716655e341fd79eb08cf975df4602f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6f0037_000.markers.yaml, hash: 'sha256:fc9be88aea3a9b20d6ea5b596ce69340e69f22ed02ec3516478912e5b4af3789'}
+  - {seq: 0, role: markers, filename: assets/KR6f0037_000.markers.yaml, hash: 'sha256:fb46963cd4e82bc8bf282fb99b4c9f9ca070a196969b3ddda79c2f1d37e00150'}
   - {seq: 1, role: markers, filename: assets/KR6f0037_001.markers.yaml, hash: 'sha256:0e072fba3c78b79a96dde84f5a237be9809025f79d4a6bbb19f326dc6d6ab52c'}
   - {seq: 2, role: markers, filename: assets/KR6f0037_002.markers.yaml, hash: 'sha256:a390aeff15625b11f5273f3493e7dbd843cd392266a855ab1ab1986cfe8aca41'}
 table_of_contents:
@@ -64,7 +64,7 @@ table_of_contents:
   label: 慧上菩薩問大善權經卷下
   type: juan
   level: 1
-hash: sha256:da327f85efcd51320a607145faf80a7409614fd4b2899c81eccb1c69d4a4c0cd
+hash: sha256:9376b28106e0be14555c3aed6f107b4eecb7d659db5d539f2d59bbbde9014979
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
